@@ -1,4 +1,4 @@
-# 🚀 React Applications Portfolio
+# 🚀 React Applications
 
 This repository showcases a collection of applications demonstrating **static**, **responsive**, and **dynamic** web development concepts.
 
