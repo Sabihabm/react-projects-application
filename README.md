@@ -82,15 +82,6 @@ npm start
 
 ---
 
-## 🚀 Future Improvements
-
-* Add backend integration
-* Improve UI/UX design
-* Add authentication
-* Deploy applications
-
----
-
 ## 🙌 Author
 
 **Sabiha**
